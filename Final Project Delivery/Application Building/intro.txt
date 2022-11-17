@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+   <meta charset="UTF-8" />
+   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+        integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+   <link rel="stylesheet" href="\Static\style.css" />
+   <title>Home</title>
+ </head>
+ <body>
+   <nav class="navbar">
+     <!-- LOGO -->
+     <div class="logo">Natural Disasters Intensity Analysis and Classification using Artificial Intelligence</div>
+     <!-- NAVIGATION MENU -->
+     <ul class="nav-links">
+       <!-- NAVIGATION MENUS -->
+     </ul>
+   </nav>
+        <h2 class="mx-4 my-0 text-center">Natural disasters are those adverse events resulting from natural processes of the Earth. Examples of such events include earthquakes, hurricanes, tsunamis, floods, droughts and fires. Many natural disasters are profoundly destructive. They leave in their wake a trail of injury, death, loss of livestock, property damage, and economic loss. The event with the highest death toll since 1980 was the Boxing Day tsunami in South East Asia in 2004 that claimed the lives of over 220,000 people. However, taking the whole 20th and 21st centuries under consideration, the deadliest earthquake was the Tangshan earthquake in 1976 in China, claiming more than 240,000 lives, some estimating the number of fatalities to have been around 650,000. In fact, four of the 10 most lethal eathquakes since 1900 happened in China.</h2>
+ </body>
